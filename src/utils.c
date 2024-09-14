@@ -129,7 +129,7 @@ void print_dirname(const char *filename, int level)
 
     padding[padding_total_length] = '\0';
 
-    printf("%s%s%s/ %d\n", padding, "├── ", filename, level);
+    printf("%s%s%s/\n", padding, "├── ", filename);
 
     free(padding);
     return;

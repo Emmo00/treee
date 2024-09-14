@@ -3,5 +3,8 @@
         "*.embeddedhtml": "html",
         "ftw.h": "c",
         "utils.h": "c"
-    }
+    },
+    "cSpell.words": [
+        "treee"
+    ]
 }
