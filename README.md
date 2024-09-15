@@ -8,7 +8,7 @@ To use the program clone the repo, then `cd` into the project directory. Compile
 
 ```bash
 make
-./treee <path>
+./build/bin/treee <path>
 ```
 
 ### Command-Line Arguments:
